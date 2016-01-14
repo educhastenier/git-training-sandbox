@@ -1,2 +1,2 @@
 # git-training-sandbox
-For test purposes
+For test purposes only
